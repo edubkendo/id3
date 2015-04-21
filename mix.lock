@@ -1,0 +1,1 @@
+%{"iconv": {:git, "https://github.com/antp/erlang-iconv.git", "7ad5ebff53a75bb3d4ffa6957e20c966c6032949", []}}
